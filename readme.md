@@ -19,10 +19,11 @@
 
 ## Core infrastructure
 
-- [block explorer](https://blockscout.dev.thefluent.xyz/) - A block explorer for the Fluent devnet.
-- [faucet](https://faucet.dev.thefluent.xyz/) - A faucet for the Fluent testnet.
-- [fluentbase](https://github.com/fluentlabs-xyz/fluentbase) - A framework to build smart contracts on the Fluent L2 as well as blockchains and verifiable compute environments that compile to rWasm
 - [fluent](https://github.com/fluentlabs-xyz/fluent) - Fluent node implementation in Rust
+- [fluentbase](https://github.com/fluentlabs-xyz/fluentbase) - A framework to build smart contracts on the Fluent L2 as well as blockchains and verifiable compute environments that compile to rWasm
+- [rwasm](https://github.com/fluentlabs-xyz/rwasm) - rWASM related crates including VM and AOT compilers
+- [block explorer](https://blockscout.dev.gblend.xyz/) - A block explorer for the Fluent devnet.
+- [faucet](https://faucet.dev.gblend.xyz/) - A faucet for the Fluent testnet.
 
 ## Development Tools
 
@@ -31,7 +32,10 @@
 
 ## Developer Resources
 
+- [Network parameters](https://docs.fluentlabs.xyz/learn/developer-preview/connect-to-the-fluent-devnet) - Instructions for connecting to the Fluent devnet.
 - [Example Contracts](https://github.com/fluentlabs-xyz/fluentbase/tree/devel/examples) - A collection of examples for building with Fluent.
+- [Developer guides](https://docs.fluentlabs.xyz/learn/developer-guides/developer-quickstart-guides) - A collection of guides for building with Fluent.
+- [Glossary](https://docs.fluentlabs.xyz/learn/resources/glossary) - A glossary of terms used in the Fluent ecosystem.
   
 ## Contribute
 
