@@ -34,6 +34,8 @@
 
 - [Network parameters](https://docs.fluentlabs.xyz/learn/developer-preview/connect-to-the-fluent-devnet) - Instructions for connecting to the Fluent devnet.
 - [Example Contracts](https://github.com/fluentlabs-xyz/fluentbase/tree/devel/examples) - A collection of examples for building with Fluent.
+- [Chess game example](https://chess.gblend.xyz/) - A chess game built on the Fluent blockchain.
+- [Tiles game example](https://tiles.gblend.xyz/) - A tiles game built on the Fluent blockchain.
 - [Developer guides](https://docs.fluentlabs.xyz/learn/developer-guides/developer-quickstart-guides) - A collection of guides for building with Fluent.
 - [Glossary](https://docs.fluentlabs.xyz/learn/resources/glossary) - A glossary of terms used in the Fluent ecosystem.
   
