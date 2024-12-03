@@ -28,7 +28,7 @@
 ## Development Tools
 
 - [gblend](https://github.com/fluentlabs-xyz/gblend) - A command-line tool for interacting with the Fluent blockchain.
-- [hardhat-compile-to-wasm](https://github.com/fluentlabs-xyz/hardhat-compile-to-wasm) - A Hardhat plugin to compile Rust contracts to WebAssembly (WASM) and generate Hardhat artifacts.
+- [hardhat-plugin](https://github.com/fluentlabs-xyz/hardhat-plugin) - Hardhat toolbox for developing smart contracts in the Fluent blockchain ecosystem. Provides seamless WASM compilation and integrated testing for Rust and Solidity contracts.
 
 ## Developer Resources
 
