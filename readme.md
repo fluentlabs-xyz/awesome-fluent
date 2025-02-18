@@ -14,7 +14,7 @@
 
 ## Official Resources
 
-- [Fluent documentation](https://docs.fluentlabs.xyz/learn)
+- [Fluent documentation](https://docs.fluent.xyz/)
 - [Gblend book](https://book.gblend.xyz/introduction/)
 
 ## Core infrastructure
