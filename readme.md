@@ -36,6 +36,7 @@
 - [Example Contracts](https://github.com/fluentlabs-xyz/fluentbase/tree/devel/examples) - A collection of examples for building with Fluent.
 - [Chess game example](https://chess.gblend.xyz/) - A chess game built on the Fluent blockchain.
 - [Tiles game example](https://tiles.gblend.xyz/) - A tiles game built on the Fluent blockchain.
+- [Blended SDK template](https://github.com/fluentlabs-xyz/blended-template) - Quickstart Blended App development with this template SDK. 
 - [Developer guides](https://docs.fluent.xyz/developer-guides/developer-quickstart-guides/) - A collection of guides for building with Fluent.
 - [Glossary](https://docs.fluent.xyz/resources/glossary) - A glossary of terms used in the Fluent ecosystem.
   
