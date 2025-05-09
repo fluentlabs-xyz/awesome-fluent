@@ -32,7 +32,7 @@
 
 ## Developer Resources
 
-- [Network parameters](https://docs.fluent.xyz/developer-preview/connect-to-the-fluent-devnet) - Instructions for connecting to the Fluent devnet.
+- [Network parameters](https://docs.fluent.xyz/developer-preview/connect-to-fluent) - Instructions for connecting to the Fluent devnet.
 - [Example Contracts](https://github.com/fluentlabs-xyz/fluentbase/tree/devel/examples) - A collection of examples for building with Fluent.
 - [Chess game example](https://chess.gblend.xyz/) - A chess game built on the Fluent blockchain.
 - [Tiles game example](https://tiles.gblend.xyz/) - A tiles game built on the Fluent blockchain.
