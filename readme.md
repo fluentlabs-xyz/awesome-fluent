@@ -35,6 +35,8 @@
 - [Network parameters](https://docs.fluent.xyz/developer-preview/connect-to-fluent) - Instructions for connecting to the Fluent devnet.
 - [Example Contracts](https://github.com/fluentlabs-xyz/fluentbase/tree/devel/examples) - A collection of examples for building with Fluent.
 - [Chess game example](https://chess.gblend.xyz/) - A chess game built on the Fluent blockchain.
+- [Uniswap V2 Foundry](https://github.com/fluentlabs-xyz/uniswapV2_foundry_deploy) - Foundry deploy scripts for Uniswap V2 on Fluent testnet.
+- [Uniswap V2 Frontend](https://github.com/fluentlabs-xyz/uniswapv2_frontend_testnet) - Simple Uniswap V2 frontend interface on Fluent testnet.
 - [Tiles game example](https://tiles.gblend.xyz/) - A tiles game built on the Fluent blockchain.
 - [Developer guides](https://docs.fluent.xyz/developer-guides/developer-quickstart-guides/) - A collection of guides for building with Fluent.
 - [Glossary](https://docs.fluent.xyz/resources/glossary) - A glossary of terms used in the Fluent ecosystem.
