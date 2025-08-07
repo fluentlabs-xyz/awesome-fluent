@@ -5,6 +5,7 @@
 ## Contents
 
 - [Awesome Fluent](#awesome-fluent)
+
   - [Contents](#contents)
   - [Official Resources](#official-resources)
   - [Core infrastructure](#core-infrastructure)
@@ -32,21 +33,24 @@
 ## Development Tools
 
 - [gblend](https://github.com/fluentlabs-xyz/gblend) - A command-line tool for interacting with the Fluent blockchain.
-- [hardhat-plugin](https://github.com/fluentlabs-xyz/hardhat-plugin) - Hardhat toolbox for developing smart contracts in the Fluent blockchain ecosystem. Provides seamless WASM compilation and integrated testing for Rust and Solidity contracts.
+- [hardhat-plugin](https://github.com/fluentlabs-xyz/hardhat-plugin)(sunset) - Hardhat toolbox for developing smart contracts in the Fluent blockchain ecosystem. Provides seamless WASM compilation and integrated testing for Rust and Solidity contracts.
 
 ## Developer Resources
 
-- [Network parameters](https://docs.fluent.xyz/connect-to-fluent) - Instructions for connecting to the Fluent devnet.
+- [Network parameters](https://docs.fluent.xyz/connect-to-fluent) - Instructions for connecting to the Fluent testnet/devnet.
 - [Example Contracts](https://github.com/fluentlabs-xyz/examples) - A collection of examples for building with Fluent.
-- [Network parameters](https://docs.fluent.xyz/developer-preview/connect-to-fluent) - Instructions for connecting to the Fluent devnet.
-- [Example Contracts](https://github.com/fluentlabs-xyz/fluentbase/tree/devel/contracts/examples) - A collection of examples for building with Fluent.
 - [Chess game example](https://chess.gblend.xyz/) - A chess game built on the Fluent blockchain.
 - [Uniswap V2 Foundry](https://github.com/fluentlabs-xyz/uniswapV2_foundry_deploy) - Foundry deploy scripts for Uniswap V2 on Fluent testnet.
 - [Uniswap V2 Frontend](https://github.com/fluentlabs-xyz/uniswapv2_frontend_testnet) - Simple Uniswap V2 frontend interface on Fluent testnet.
 - [Tiles game example](https://tiles.gblend.xyz/) - A tiles game built on the Fluent blockchain.
-- [Blended SDK template](https://github.com/fluentlabs-xyz/blended-template) - Quickstart Blended App development with this template SDK. 
-- [Developer guides](https://docs.fluent.xyz/developer-guides/developer-quickstart-guides/) - A collection of guides for building with Fluent.
+- [Blended SDK template](https://github.com/fluentlabs-xyz/blended-template-foundry-cli) - Quickstart Blended App development with this template SDK.
 - [Glossary](https://docs.fluent.xyz/glossary) - A glossary of terms used in the Fluent ecosystem.
+
+### Developer Guides
+
+- [Rust guide](https://docs.fluent.xyz/developer-guides/smart-contracts/rust) - A guids for building with Rust based WASM contracts on Fluent.
+- [Solidity guide](https://docs.fluent.xyz/developer-guides/smart-contracts/solidity) - A guids for building with Solidity on Fluent.
+- [Blended App](https://docs.fluent.xyz/developer-guides/building-a-blended-app/) - A collection of guides for building with Fluent.
   
 ## Contribute
 
