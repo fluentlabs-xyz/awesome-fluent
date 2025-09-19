@@ -43,6 +43,7 @@
 - [Uniswap V2 Foundry](https://github.com/fluentlabs-xyz/uniswapV2_foundry_deploy) - Foundry deploy scripts for Uniswap V2 on Fluent testnet.
 - [Uniswap V2 Frontend](https://github.com/fluentlabs-xyz/uniswapv2_frontend_testnet) - Simple Uniswap V2 frontend interface on Fluent testnet.
 - [Tiles game example](https://tiles.gblend.xyz/) - A tiles game built on the Fluent blockchain.
+- [Rock Paper Scissors](https://rakshithvk19.github.io/Cross-VM-Rock-Paper-Scissors/) - A simple Rock Paper Scissors game against a computer, using a Rust oracle for randomness, computer moves, round count, and betting logic. Solidity handles fund management and overall game flow. [GitHub](https://github.com/rakshithvk19/Cross-VM-Rock-Paper-Scissors)
 - [Blended SDK template](https://github.com/fluentlabs-xyz/blended-template-foundry-cli) - Quickstart Blended App development with this template SDK.
 - [Glossary](https://docs.fluent.xyz/glossary) - A glossary of terms used in the Fluent ecosystem.
 
